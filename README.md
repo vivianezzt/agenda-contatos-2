@@ -42,13 +42,13 @@ Construíndo uma agenda de contatos com react, styled-components, redux
 - Adiciona contatos
 - Remove contatos
 - Atualiza contatos
-<br>
+
 - **Tecnologias**:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-<br>
+
 - **Estrutura do Projeto**:
 
 - **Redux**: Descreve o gerenciamento de estado usando Redux.
