@@ -15,20 +15,16 @@ Construíndo uma agenda de contatos com react, styled-components, redux
 - remoção;
 - edição dos itens da lista de contatos.
 1. **Clone o repositório:**
-<br>
    ```
    git clone https://github.com/vivianezzt/agenda-contatos
    ```
-
 2. **Instale as dependências:**
-
    ```
    cd lista-contatos
    npm install
    ```
 
 3. **Execute o aplicativo:**
-
    ```
    npm start
    ```
