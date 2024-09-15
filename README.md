@@ -14,7 +14,6 @@ Construíndo uma agenda de contatos com react, styled-components, redux
 - adição;
 - remoção;
 - edição dos itens da lista de contatos.
-<br>
 1. **Clone o repositório:**
 <br>
    ```
@@ -22,14 +21,14 @@ Construíndo uma agenda de contatos com react, styled-components, redux
    ```
 
 2. **Instale as dependências:**
-<br>
+
    ```
    cd lista-contatos
    npm install
    ```
 
 3. **Execute o aplicativo:**
-<br>
+
    ```
    npm start
    ```
